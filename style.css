@@ -23,3 +23,9 @@ footer {
     padding: .5rem;
     font-size: 1.5rem;
 }
+
+p {
+    padding: 1rem;
+    background-color: #6c2a0d;
+    border-radius: 1rem;
+}
