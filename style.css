@@ -10,3 +10,9 @@ body {
     background-position: center;
     font-family: "JetBrains Mono", monospace;
 }
+
+header {
+    background-color: #f9be52;
+    padding: .5rem;
+    font-size: 2rem;
+}
