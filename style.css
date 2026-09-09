@@ -1,0 +1,12 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0rem;
+    margin: 0rem;
+    text-align: center;
+    color: #6c2a0d;
+    background-image: url('descarga.jpe ');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: "JetBrains Mono", monospace;
+}
