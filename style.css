@@ -17,3 +17,9 @@ header {
     font-size: 2rem;
 }
 
+footer {
+    background-color: #f9be52;
+    height: 11.5vh;
+    padding: .5rem;
+    font-size: 1.5rem;
+}
